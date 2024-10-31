@@ -19,8 +19,9 @@ There are spelling errors, which are making it sort things into more categories 
 it's showing a histogram of the numbers 1-14, it seems they used to be strings just like in the years column
 
 ### Question 5: Click and drag on the scatterplot facet you made to highlight a rectangle. What happens to the data points being displayed?
-it shows only the ones with the specific number in the note1 column
+it shows only the ones that are highlighted
 
 # Questions for Post-Lab Assignment 10!
 
 ### Question 6: After the last step, some columns are empty. (You can check by text faceting a column) Why? What do you think we can do to fix it?
+there is one or more entries in the scientific name column that have extra spaces, so the program splits into too many columns
